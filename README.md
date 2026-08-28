@@ -8,16 +8,16 @@ The repository serves as a structured collection of Java-based implementations c
 
 The repository includes exercises and implementations related to:
 
-1. **OOP Fundamentals with Java**
-2. **Class & Object**
-3. **Object Interaction**
-4. **Conditional Statements, Loops & Nested Classes**
-5. **Array, ArrayList, Iterator, Vector, Stack & Queue**
-6. **Package, Library & JAR**
-7. **Inheritance**
-8. **Polymorphism**
-9. **Exception Handling**
-10. **Abstract Class**
+* **OOP Fundamentals with Java**
+* **Class & Object**
+* **Object Interaction**
+* **Conditional Statements, Loops & Nested Classes**
+* **Array, ArrayList, Iterator, Vector, Stack & Queue**
+* **Package, Library & JAR**
+* **Inheritance**
+* **Polymorphism**
+* **Exception Handling**
+* **Abstract Class**
 
 ## 🛠️ Technology
 
