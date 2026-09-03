@@ -1,70 +1,50 @@
-# Java Object-Oriented Programming Exercises
+# Java OOP Learning
 
-This repository contains a collection of Java programs and exercises focused on fundamental **Object-Oriented Programming (OOP)** concepts and related Java implementations.
+This repository contains Java learning materials and source code implementations focused on fundamental **Object-Oriented Programming (OOP)** concepts and Java programming practices.
 
-The repository serves as a structured collection of Java-based implementations covering core OOP principles, data structures, exception handling, database query execution, reporting, debugging, and testing.
+This repository is created as a learning space to explore Java programming through practical implementations, covering core OOP principles, data structures, exception handling, database interaction, reporting, debugging, and testing.
+
+The source codes in this repository represent learning practices, experiments, and implementations developed throughout the process of studying Java Object-Oriented Programming.
 
 ## 📚 Topics Covered
 
-The repository includes exercises and implementations related to:
+This repository includes learning implementations related to:
 
 * OOP Fundamentals with Java
-* Class & Object
+* Class and Object
 * Object Interaction
-* Conditional Statements, Loops & Nested Classes
-* Array, ArrayList, Iterator, Vector, Stack & Queue
-* Package, Library & JAR
+* Conditional Statements, Loops, and Nested Classes
+* Array, ArrayList, Iterator, Vector, Stack, and Queue
+* Package, Library, and JAR
 * Inheritance
 * Polymorphism
 * Exception Handling
 * Abstract Class
+* Database Query Execution
+* Reporting Implementation
+* Debugging and Testing
 
-## 🛠️ Technology
+## 🛠️ Technologies
 
 The main technology used in this repository is:
 
 * Java
 
-## 🎯 Repository Purpose
+## 🎯 Repository Objective
 
 This repository is maintained to:
 
-* Organize Java OOP exercise implementations
-* Document various Object-Oriented Programming concepts
-* Maintain reusable Java code references
-* Demonstrate different Java programming structures and implementations
-* Centralize OOP, data handling, query execution, reporting, and testing examples
-
-## ▶️ How to Run
-
-Clone the repository:
-
-```bash id="3m5u82"
-git clone https://github.com/USERNAME/Java-Object-Oriented-Programming-Exercises.git
-```
-
-Navigate to the repository directory:
-
-```bash id="8uh5y2"
-cd Java-Object-Oriented-Programming-Exercises
-```
-
-Compile a Java file:
-
-```bash id="59o3tw"
-javac FileName.java
-```
-
-Run the compiled program:
-
-```bash id="khljgc"
-java FileName
-```
+* Document the learning process of Java Object-Oriented Programming
+* Organize and store Java learning implementations
+* Practice OOP concepts and Java programming structures
+* Explore different approaches to solving programming problems
+* Maintain reusable Java code examples and references
+* Build a structured record of Java programming learning progress
 
 ## 📜 License
 
-The source code in this repository is available for reference, experimentation, and development purposes.
+The source code in this repository is available for learning, reference, experimentation, and educational purposes.
 
 ---
 
-**Java Object-Oriented Programming Exercises — OOP & Java Implementation Collection**
+**Java OOP Learning — Object-Oriented Programming & Java Implementation Practice Repository**
