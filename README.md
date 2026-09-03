@@ -1,8 +1,8 @@
-# Java OOP Learning
+# Java Object-Oriented Programming Learning
 
-This repository contains Java learning materials and source code implementations focused on fundamental **Object-Oriented Programming (OOP)** concepts and Java programming practices.
+This repository contains Java learning materials and source code implementations focused on fundamental **Object-Oriented Programming** concepts and Java programming practices.
 
-This repository is created as a learning space to explore Java programming through practical implementations, covering core OOP principles, data structures, exception handling, database interaction, reporting, debugging, and testing.
+This repository is created as a learning space to explore Java programming through practical implementations, covering Object-Oriented Programming principles, data structures, exception handling, database interaction, reporting, debugging, and testing.
 
 The source codes in this repository represent learning practices, experiments, and implementations developed throughout the process of studying Java Object-Oriented Programming.
 
@@ -10,7 +10,7 @@ The source codes in this repository represent learning practices, experiments, a
 
 This repository includes learning implementations related to:
 
-* OOP Fundamentals with Java
+* Object-Oriented Programming Fundamentals with Java
 * Class and Object
 * Object Interaction
 * Conditional Statements, Loops, and Nested Classes
@@ -35,8 +35,8 @@ The main technology used in this repository is:
 This repository is maintained to:
 
 * Document the learning process of Java Object-Oriented Programming
-* Organize and store Java learning implementations
-* Practice OOP concepts and Java programming structures
+* Organize and store Java programming learning implementations
+* Practice Object-Oriented Programming concepts and Java programming structures
 * Explore different approaches to solving programming problems
 * Maintain reusable Java code examples and references
 * Build a structured record of Java programming learning progress
@@ -47,4 +47,4 @@ The source code in this repository is available for learning, reference, experim
 
 ---
 
-**Java OOP Learning — Object-Oriented Programming & Java Implementation Practice Repository**
+**Java Object-Oriented Programming Learning — Object-Oriented Programming & Java Implementation Practice Repository**
